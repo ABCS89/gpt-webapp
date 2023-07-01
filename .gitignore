@@ -1,0 +1,4 @@
+.history/
+.docker/
+*.Identifier
+cloudformation-eks-vpc.yaml
