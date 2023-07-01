@@ -1,8 +1,8 @@
-aws_region = "us-west-2"
+aws_region = "us-east-1"
 
 vpc_block = "192.168.0.0/16"
 
-availability_zones = ["us-west-2a", "us-west-2b"]
+availability_zones = ["us-east-1a", "us-east-1b"]
 
 public_subnet_cidr_blocks = ["192.168.0.0/18", "192.168.64.0/18"]
 

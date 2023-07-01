@@ -61,7 +61,7 @@ Adicionar a linha abaixo:
 
 Template de rede para o EKS do CloudFormations:
 
-https://s3.us-west-2.amazonaws.com/amazon-eks/cloudformation/2020-10-29/amazon-eks-vpc-private-subnets.yaml
+https://s3.us-east-1.amazonaws.com/amazon-eks/cloudformation/2020-10-29/amazon-eks-vpc-private-subnets.yaml
 
 ## Aula 04
 
